@@ -22,7 +22,7 @@ storing it in databases, and turning it into dashboards.
 | [Hospital Records Analysis]([https://github.com/asma-pp1/de-projects/tree/main/Hospital_records_analysis]) | Analyzes synthetic hospital patient records | SQL, Power BI |
 
 ## 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/asma-e-518b091b9/) · [email](asma.dev00@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/asma-e-518b091b9/) · [asma.dev00@gmail.com](asma.dev00@gmail.com)
 
 <!--
 **asma-pp1/asma-pp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
